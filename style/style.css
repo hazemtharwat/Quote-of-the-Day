@@ -1,0 +1,29 @@
+.quote{
+  text-align: center;
+
+}
+.quote h1{
+  font-size: 5rem;
+  font-weight: bolder;
+}
+.quote p{
+  font-size: 3rem;
+
+}
+.quote button{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 20px 35px;
+}
+.quote button:hover{
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+.quote #quoteName{
+  width: 60%;
+  margin: 30px auto;
+  color: rgb(2, 116, 182);
+}
